@@ -12,3 +12,17 @@ C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\
 C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.hoadon.resources
 C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.Nhanvien.resources
 C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.help.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\bin\Debug\quanlybanhang.exe.config
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.exe
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.pdb
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\bin\Debug\quanlybanhang.exe
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\bin\Debug\quanlybanhang.pdb
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.csprojResolveAssemblyReference.cache
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.main.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Properties.Resources.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.hanghoa.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.help.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.hoadon.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.Khachhang.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.Nhanvien.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan Ly Ban Hang - Quang nguyen\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.csproj.GenerateResource.Cache

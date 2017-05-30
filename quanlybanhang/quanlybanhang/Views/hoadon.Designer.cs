@@ -422,6 +422,7 @@
             this.Name = "hoadon";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "hoadon";
+            this.Load += new System.EventHandler(this.hoadon_Load_1);
             this.gb1.ResumeLayout(false);
             this.gb1.PerformLayout();
             this.gb2.ResumeLayout(false);

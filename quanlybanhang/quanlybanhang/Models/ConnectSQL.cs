@@ -61,7 +61,7 @@ namespace quanlybanhang.Models
         #region
         public ConnectSQL()
         {
-            string strcon = "Data Source=(Local);Initial Catalog=Quanlybanhang;Integrated Security=True";
+            string strcon = @"Data Source=DESKTOP-G6V39FB\SQLEXPRESS;Initial Catalog=Quanlybanhang;Integrated Security=True";
             con = new SqlConnection(strcon);
         }
         #endregion
