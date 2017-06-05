@@ -12,3 +12,17 @@ C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\
 C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.hoadon.resources
 C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.Nhanvien.resources
 C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.help.resources
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\bin\Debug\quanlybanhang.exe.config
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\bin\Debug\quanlybanhang.exe
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\bin\Debug\quanlybanhang.pdb
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.csprojResolveAssemblyReference.cache
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.main.resources
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Properties.Resources.resources
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.hanghoa.resources
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.help.resources
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.hoadon.resources
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.Khachhang.resources
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.Nhanvien.resources
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.csproj.GenerateResource.Cache
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.exe
+C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.pdb

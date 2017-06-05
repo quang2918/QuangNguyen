@@ -16,45 +16,10 @@ namespace quanlybanhang.Views
         public help()
         {
             InitializeComponent();
+            webBrowser1.Navigate ( @"C:\Users\Do Quang\Documents\GitHub\QuangNguyen\quanlybanhang\quanlybanhang\Views\HỖ TRỢ NGƯỜI DÙNG.htm");
         }
 
-        private void richTextBox1_TextChanged(object sender, EventArgs e)
-        {
-            string hd = "Giới thiệu phần mềm1.docx";
-            FileStream fs = new FileStream(hd, FileMode.Open, FileAccess.Read);
-            StreamReader sr = new StreamReader(fs);
-            sr.BaseStream.Seek(0, SeekOrigin.Begin);
-            string str;
-            //doc tat ca du lieu trong file luu vao str;
-            str = sr.ReadToEnd();
-            //set text cua textbox1 = str;
-            richTextBox1.Text = str;
-            sr.Close();
-            fs.Close();
-           
-        }
-        private void Text_Load(object sender, EventArgs e)
-        {
-            string[] args = System.Environment.GetCommandLineArgs();
-            string filePath = args[0];
-            for (int i = 0; i <= args.Length - 1; i++)
-            {
-                if (args[i].EndsWith(".exe") == false)
-                {
-                    richTextBox1.Text = System.IO.File.ReadAllText(args[i],
-                    Encoding.Default);
-                }
-            }
-        }
-        private void Application_Startup(object sender, StartupEventArgs e)
-        {
-            string[] args = System.Environment.GetCommandLineArgs();
-            string filePath = args[0];
-        }
-        public sealed class StartupEventArgs : EventArgs
-        {
-
-        }
+        
 
 
 
