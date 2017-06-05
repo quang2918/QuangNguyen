@@ -1,0 +1,14 @@
+c:\users\tyty\documents\visual studio 2015\Projects\quanlybanhang\quanlybanhang\bin\Debug\quanlybanhang.exe.config
+c:\users\tyty\documents\visual studio 2015\Projects\quanlybanhang\quanlybanhang\bin\Debug\quanlybanhang.exe
+c:\users\tyty\documents\visual studio 2015\Projects\quanlybanhang\quanlybanhang\bin\Debug\quanlybanhang.pdb
+c:\users\tyty\documents\visual studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.csprojResolveAssemblyReference.cache
+c:\users\tyty\documents\visual studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.main.resources
+c:\users\tyty\documents\visual studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Properties.Resources.resources
+c:\users\tyty\documents\visual studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.csproj.GenerateResource.Cache
+c:\users\tyty\documents\visual studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.exe
+c:\users\tyty\documents\visual studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.pdb
+C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.Khachhang.resources
+C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.hanghoa.resources
+C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.hoadon.resources
+C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.Nhanvien.resources
+C:\Users\tyty\Documents\Visual Studio 2015\Projects\quanlybanhang\quanlybanhang\obj\Debug\quanlybanhang.Views.help.resources
